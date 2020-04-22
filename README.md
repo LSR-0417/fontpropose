@@ -1,4 +1,6 @@
 # 有關於開源文書格式(ODF)與字型授權
 
 這是一封想要讓數位文件格式自由化的公開信。<br />
-附件的odt檔由Libreoffice.org製作，已包入中文字型：教育部楷書，英數字型：Noto Sans。
+附件的odt檔由Libreoffice.org製作，已包入以下字型：
+*中文字型：教育部楷書
+*英數字型：Noto Sans
